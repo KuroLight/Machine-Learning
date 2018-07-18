@@ -23,7 +23,7 @@
 >>> y = np.array([1, 1, 2, 2])
 >>> from sklearn.svm import SVC
 >>> clf = SVC(gamma='auto')
->>> clf.fit(X, y) 
+>>> clf.fit(X, y)
 SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
     decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
     max_iter=-1, probability=False, random_state=None, shrinking=True,
@@ -34,7 +34,7 @@ SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
 
 ## More
 
-支持分类的支持向量机可以推广到解决回归问题，我们称它**支持向量回归**
+支持分类的支持向量机可以推广到解决**回归**问题，我们称它**支持向量回归**
 
 ## Translation - 中英对照表
 
