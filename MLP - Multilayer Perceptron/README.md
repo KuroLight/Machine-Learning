@@ -1,6 +1,6 @@
 # **异或XOR**问题的可实现性
 
-## 什么是异或XOR问题
+## 什么是异或XOR问题？（What's XOR in Neural Networks?）
 
 ## 感知机（Perceptron）
 
@@ -8,7 +8,7 @@
 
 ## 反向传播（Backpropagation）
 
-## 中英对照表
+## 中英对照表（Translation）
 
 ```list
 - XOR/exclusive or          异或
