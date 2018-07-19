@@ -139,3 +139,6 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.  
 ​领导者会关注其业务的关键决定条件，确保工作质量并及时完成。尽管遭受挫折，领导者依然勇于面对挑战，从不气馁。
+
+## Reference
+- [Interview Cheat Sheet #30](https://www.bloomberg.com/graphics/2015-cheatsheets/amazon.html)
