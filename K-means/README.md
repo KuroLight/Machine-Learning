@@ -11,3 +11,4 @@ compute similarity vector sk = Xqk using inverted indexing of X; Assign document
 4. Repeat steps 2 & 3 until all the centroids are stabilized.
 
 ## Reference
+1. CMU 11-641 ML w/ Text Mining, Yiming Yang
