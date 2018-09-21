@@ -13,6 +13,9 @@
 
 ## Kernel Trick - 核
 
+如果线性不可分，你可以使用 kernel 技巧。
+核函数只是用来计算映射到高维空间之后的内积的一种简便方法。
+
 ## Hyperplane
 
 ## Scikit-learn Example - sklearn [例子](http://scikit-learn.org/dev/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC)
