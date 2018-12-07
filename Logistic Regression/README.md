@@ -42,3 +42,7 @@
 
 1. LR: good for large scale data, good for online learning
 2. SVM: good for small data
+
+## Reference
+
+1. https://blog.csdn.net/haolexiao/article/details/70191667
