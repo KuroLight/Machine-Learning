@@ -45,4 +45,4 @@
 
 ## Reference
 
-1. https://blog.csdn.net/haolexiao/article/details/70191667
+1. [【机器学习】Linear SVM 和 LR 的联系和区别](https://blog.csdn.net/haolexiao/article/details/70191667)
